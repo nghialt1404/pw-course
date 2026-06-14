@@ -1,4 +1,4 @@
-** Các câu lệnh sử dụng git **
+**Các câu lệnh sử dụng git**
 
 - git init
 - git add .
@@ -7,20 +7,20 @@
 - git push origin main
 - git log
 
-** Các loại dữ liệu **
+**Các loại dữ liệu**
 - Number
 - String
 - Boolean
 ...
 
-** Các loại toán tử **
+**Các loại toán tử**
 - +,-,*,/
 - So sánh (>,<,>=,<=,==,===)
 - Logic (&&,||)
 - một ngôi (x++,x--,--x,++x)
 
-** Vòng lặp **
+**Vòng lặp**
 Cú pháp: for (<điều kiện khởi tạo>;<điều kiện lặp>;<cập nhập>){ code}
 
-** Condition **
+**Condition**
 Cú pháp: if (<điều kiện>){code}

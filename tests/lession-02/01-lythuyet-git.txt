@@ -1,0 +1,4 @@
+- Câu lệnh git init: được dùng để khởi tạo một Git Repository mới trong thư mục hiện tại.
+- Câu lệnh git được dùng để đưa một file cụ thể vào vùng chờ conmmit
+- Câu lệnh git add . để đưa tất cả các file còn lại vào vùng chờ commit
+- Câu lệnh git commit -m"message" dùng để commit các file với mô tả ngắn gọn. Lưu lại phiên bản

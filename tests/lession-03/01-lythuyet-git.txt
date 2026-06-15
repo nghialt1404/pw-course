@@ -1,0 +1,4 @@
+- Câu lệnh git --amend: được dùng để thay đổi commit gần nhất: Thay đổi message, thêm/bớt file hoặc cả hai
+- Câu lệnh git commit --amend -m"message" được dùng để thay đổi message của commit gần nhất
+- Câu lệnh git restore --staged<file> để đưa file về lại vào vùng Working Directory
+- Câu lệnh git reset Head~1 dùng để đưa các 1 commit gần nhất từ vùng Repository vè vùng Working Directory
